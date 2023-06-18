@@ -1,0 +1,15 @@
+D:\Projelerim\PiggyBank\PiggyBank\PiggyBank\bin\Debug\net6.0\PiggyBank.exe
+D:\Projelerim\PiggyBank\PiggyBank\PiggyBank\bin\Debug\net6.0\PiggyBank.deps.json
+D:\Projelerim\PiggyBank\PiggyBank\PiggyBank\bin\Debug\net6.0\PiggyBank.runtimeconfig.json
+D:\Projelerim\PiggyBank\PiggyBank\PiggyBank\bin\Debug\net6.0\PiggyBank.dll
+D:\Projelerim\PiggyBank\PiggyBank\PiggyBank\bin\Debug\net6.0\PiggyBank.pdb
+D:\Projelerim\PiggyBank\PiggyBank\PiggyBank\obj\Debug\net6.0\PiggyBank.csproj.AssemblyReference.cache
+D:\Projelerim\PiggyBank\PiggyBank\PiggyBank\obj\Debug\net6.0\PiggyBank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projelerim\PiggyBank\PiggyBank\PiggyBank\obj\Debug\net6.0\PiggyBank.AssemblyInfoInputs.cache
+D:\Projelerim\PiggyBank\PiggyBank\PiggyBank\obj\Debug\net6.0\PiggyBank.AssemblyInfo.cs
+D:\Projelerim\PiggyBank\PiggyBank\PiggyBank\obj\Debug\net6.0\PiggyBank.csproj.CoreCompileInputs.cache
+D:\Projelerim\PiggyBank\PiggyBank\PiggyBank\obj\Debug\net6.0\PiggyBank.dll
+D:\Projelerim\PiggyBank\PiggyBank\PiggyBank\obj\Debug\net6.0\refint\PiggyBank.dll
+D:\Projelerim\PiggyBank\PiggyBank\PiggyBank\obj\Debug\net6.0\PiggyBank.pdb
+D:\Projelerim\PiggyBank\PiggyBank\PiggyBank\obj\Debug\net6.0\PiggyBank.genruntimeconfig.cache
+D:\Projelerim\PiggyBank\PiggyBank\PiggyBank\obj\Debug\net6.0\ref\PiggyBank.dll
